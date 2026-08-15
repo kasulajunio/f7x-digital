@@ -35,3 +35,13 @@ Como o projeto é estático, basta abrir `index.html` em um navegador ou iniciar
 Para ideias, sites e experiências digitais, use o [WhatsApp](https://wa.me/5573981430739?text=Oi%20Fabio!%20Quero%20falar%20sobre%20um%20projeto%20digital.) ou abra uma conversa com o [NEXO-7](https://fabioai7x-43rgqwfj.manus.space/).
 
 <sub>F7X Digital é uma frente da Fabio7X Digital — Porto Seguro, Bahia, Brasil.</sub>
+
+
+## Páginas comerciais
+
+As páginas **Site Launch Lite** e **Mini Game Kit Custom** pertencem ao estúdio e agora vivem neste repositório, sem perder os links antigos do hub, que redirecionam automaticamente para cá.
+
+| Página | Acesso |
+| --- | --- |
+| Site Launch Lite | [Abrir página](https://kasulajunio.github.io/f7x-digital/site-launch-lite.html) |
+| Mini Game Kit Custom | [Abrir página](https://kasulajunio.github.io/f7x-digital/mini-game-kit-custom.html) |
