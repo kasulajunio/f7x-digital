@@ -15,7 +15,7 @@ Este repositório reúne a experiência pública do **F7X Digital**, uma frente 
 | --- | --- |
 | Página pública | [kasulajunio.github.io/f7x-digital](https://kasulajunio.github.io/f7x-digital/) |
 | Serviços | [Ver serviços](https://kasulajunio.github.io/f7x-digital/servicos.html) |
-| Fabio7X AI | [Conversar com o NEXO-7](https://fabiodigi-pr7pfynb.manus.space/#nexo) |
+| Fabio7X AI | [Conversar com o NEXO-7](https://fabioai7x-43rgqwfj.manus.space/) |
 | Arcade web | [Abrir Fabio7X Arcade](https://kasulajunio.github.io/) |
 
 ## Estrutura
@@ -32,6 +32,6 @@ Como o projeto é estático, basta abrir `index.html` em um navegador ou iniciar
 
 ## Contato
 
-Para ideias, sites e experiências digitais, use o [WhatsApp](https://wa.me/5573981430739?text=Oi%20Fabio!%20Quero%20falar%20sobre%20um%20projeto%20digital.) ou abra uma conversa com o [NEXO-7](https://fabiodigi-pr7pfynb.manus.space/#nexo).
+Para ideias, sites e experiências digitais, use o [WhatsApp](https://wa.me/5573981430739?text=Oi%20Fabio!%20Quero%20falar%20sobre%20um%20projeto%20digital.) ou abra uma conversa com o [NEXO-7](https://fabioai7x-43rgqwfj.manus.space/).
 
 <sub>F7X Digital é uma frente da Fabio7X Digital — Porto Seguro, Bahia, Brasil.</sub>
